@@ -1,0 +1,4 @@
+{signal: [
+  {name: 'SDA', wave: 'hl===|==lhl===|=l.h', data: ["A6","A5","...","A0","R/W","D7","D6","...","D0"]},
+  {name: 'SCL', wave: 'h.n..|...l.n..|...h'},
+]}

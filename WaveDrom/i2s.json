@@ -1,0 +1,9 @@
+{signal: [
+    {name: 'SCK', wave: 'hN..|...l'},
+    {name: 'WS', wave: '10..|.1..'}, 
+    {name: 'SD', wave: 'x345|789x', data: ['LSB','MSB','','','LSB','MSB','',''], phase: 0.15},
+    ],
+foot:{
+    text:'RIGHT  |                 LEFT                 | RIGHT                  ',
+},
+}
